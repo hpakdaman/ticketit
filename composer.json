@@ -26,7 +26,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Kordy\\Ticketit\\": "src"
+            "hpakdaman\\Ticketit\\": "src"
         }
     }
 }
