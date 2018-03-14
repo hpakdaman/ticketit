@@ -1,6 +1,6 @@
 <?php
 
-namespace Kordy\Ticketit\Traits;
+namespace hpakdaman\Ticketit\Traits;
 
 trait ContentEllipse
 {
